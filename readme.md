@@ -27,8 +27,7 @@ Jetzt ist man eigentlich schon einsatzbereit und man kann nun nur Commits machen
 
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
-
-ich habe local ein dot enc file erstellt, und habe dort:
+ich habe lokal ein dot enc file erstellt, und habe dort:
 ``` 
 PASSWORD="einSehrGeheimesPasswort"
 ```
@@ -40,5 +39,6 @@ danach habe ich das ganze auf Azure deployt:
 Dann noch die Umgebungsvariable in Azure hinzufügen und dann bin ich auch schon durch mit dieser Aufgabe:
 Auf Azure kann man in der Konfiguration sogenannte "Application Settins" definieren. Da kann man, wie in einem .env, seine geheimen Werte eintragen.
 ![image](https://github.com/h0peRL/DelvecchioNicoLB-324/assets/89131248/0f02a361-a095-46a9-8259-17622868b48a)
+
 
 

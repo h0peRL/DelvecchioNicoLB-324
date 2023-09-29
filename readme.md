@@ -7,11 +7,13 @@ dafür muss man einige sachen installieren:
 Erklären Sie hier, wie man pre-commit installiert.
 
 Wenn man ein Python Projekt hat, geht das eigentlich ziemlich einfach.
+
 Windows
 pip install pre-commit
 
 OSX
 pip3 install pre-commit
+
 Danach erstellt man seinen Pre-Commit Hook. Als Beispiel habe ich hier meines im folder namens: .pre-commit-config.yaml
 
 Jetzt führt man noch den folgenden Befehl im Terminalaus.

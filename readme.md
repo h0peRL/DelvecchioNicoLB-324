@@ -28,3 +28,5 @@ Jetzt ist man eigentlich schon einsatzbereit und man kann nun nur Commits machen
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
 ![image](https://github.com/h0peRL/DelvecchioNicoLB-324/assets/89131248/7d0f3f2d-65ef-4c81-b5e9-6f5ab4a82b6f)
+![image](https://github.com/h0peRL/DelvecchioNicoLB-324/assets/89131248/0a4387d4-e71c-4c00-b24a-e772e38abddc)
+

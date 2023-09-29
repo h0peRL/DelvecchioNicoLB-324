@@ -41,4 +41,4 @@ Auf Azure kann man in der Konfiguration sogenannte "Application Settins" definie
 ![image](https://github.com/h0peRL/DelvecchioNicoLB-324/assets/89131248/0f02a361-a095-46a9-8259-17622868b48a)
 
 
-
+Das Ganze ist [hier](https://lb-324-tagebbbuch.azurewebsites.net) deployt.

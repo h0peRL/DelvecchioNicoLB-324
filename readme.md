@@ -9,15 +9,16 @@ Erklären Sie hier, wie man pre-commit installiert.
 Wenn man ein Python Projekt hat, geht das eigentlich ziemlich einfach.
 
 Windows
-pip install pre-commit
+```pip install pre-commit```
 
 OSX
-pip3 install pre-commit
+```pip3 install pre-commit```
 
-Danach erstellt man seinen Pre-Commit Hook. Als Beispiel habe ich hier meines im folder namens: .pre-commit-config.yaml
+Danach erstellt man seinen Pre-Commit Hook. Als Beispiel habe ich hier meines im folder namens:
+```.pre-commit-config.yaml```
 
-Jetzt führt man noch den folgenden Befehl im Terminalaus.
-pre-commit install --hook-type pre-commit --hook-type pre-push
+Jetzt führt man noch den folgenden Befehl im Terminal aus.
+```pre-commit install --hook-type pre-commit --hook-type pre-push```
 
 Jetzt ist man eigentlich schon einsatzbereit und man kann nun nur Commits machen, wenn alle Tests erfolgreich durchlaufen.
 

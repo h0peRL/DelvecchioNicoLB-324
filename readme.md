@@ -14,6 +14,9 @@ Windows
 OSX
 ```pip3 install pre-commit```
 
+ebenfalls auch
+```pip install -r requirements.txt```
+
 Danach erstellt man seinen Pre-Commit Hook. Als Beispiel habe ich hier meines im folder namens:
 ```.pre-commit-config.yaml```
 

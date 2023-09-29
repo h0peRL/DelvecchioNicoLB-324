@@ -17,7 +17,7 @@ OSX
 ebenfalls auch
 ```pip install -r requirements.txt```
 
-Danach erstellt man seinen Pre-Commit Hook. Als Beispiel habe ich hier meines im folder namens:
+Danach erstellt man seinen Pre-Commit Hook. Als Beispiel habe ich hier meines im folder und die datei heisst:
 ```.pre-commit-config.yaml```
 
 Jetzt führt man noch den folgenden Befehl im Terminal aus.
